@@ -52,7 +52,7 @@ Built with **Spring Boot (JWT Auth)** and **React (TypeScript SPA)**.
 I'm currently open to internships, collaborations, and full-stack project opportunities.  
 📨 Reach out via LinkedIn or GitHub!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navindi-thisara)
 
 ---
 
