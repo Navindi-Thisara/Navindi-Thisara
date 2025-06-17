@@ -26,19 +26,19 @@
 ## 📌 Featured Project
 
 ### 🔍 Lost and Found Application
-> A full-stack web application for managing lost and found items in an educational institute.  
-> Built with **Spring Boot (JWT Auth)** and **React (TypeScript SPA)**.
+A full-stack web app for managing lost and found items in an educational institute.  
+Built with **Spring Boot (JWT Auth)** and **React (TypeScript SPA)**.
 
-- 👨‍🎓 Role-based authentication (Admin/User)  
-- 🧾 RESTful API with secure token-based access  
-- 🧩 Clean UI/UX using React Router & component-driven design
+- 👤 Role-based authentication (Admin/User)  
+- 🔐 Secure RESTful API with token-based access  
+- 🧩 Component-driven UI using React Router
 
 🔗 [Frontend Repository](https://github.com/Navindi-Thisara/lostfound-frontend)  
 🔗 [Backend Repository](https://github.com/Navindi-Thisara/lostfound-backend)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Navindi-Thisara&show_icons=true&theme=default" height="180px" />
@@ -47,17 +47,19 @@
 
 ---
 
-## 📈 Visitor Count
+## 💼 Let's Connect
+
+I'm currently open to internships, collaborations, and full-stack project opportunities.  
+📨 Reach out via LinkedIn or GitHub!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+
+---
+
+## 👀 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Navindi-Thisara&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 💬 Let's Connect
-
-I'm currently open to internships, collaborations, and project opportunities.  
-Reach out via GitHub or explore my projects!
-
----
-
-_“Strive for progress, not perfection.”_
+> _“Strive for progress, not perfection.”_
